@@ -5,7 +5,7 @@ Over 7 years of experience in leading and training. A problem solver eager to le
 Motivated to expand current skill set through new challenges and ready to contribute to life changing projects.
 
 - HTML, CSS, Bootstrap, JavaScript, jQuery
-- I’m currently learning JAVA.
+- I’m currently learning JAVA and MYSQL.
 - I'm working on several projects
 - I am using IntelliJ
 - Fun Fact: I am a Brazilian Jiu Jitsu practicioner
