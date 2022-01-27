@@ -1,4 +1,4 @@
-<h1> Hi, I'm Andrew <h1>
+# Hi I'm Andrew
 
 Software Developer in training (At Codeup!) who formerly served in the United States Army as an Unmanned Aircraft Systems Repairer. 
 Over 7 years of experience in leading and training. A problem solver eager to learn and showcase my skills and talent. 
