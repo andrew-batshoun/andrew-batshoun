@@ -10,4 +10,4 @@ Motivated to expand current skill set through new challenges and ready to contri
 - I am using IntelliJ
 - Fun Fact: I am a Brazilian Jiu Jitsu practicioner
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-batshoun&show_icons=true&theme=radical)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-batshoun&show_icons=true&theme=default)
