@@ -1,8 +1,6 @@
 # Hi I'm Andrew
 
-Software Developer in training (At Codeup!) who formerly served in the United States Army as an Unmanned Aircraft Systems Repairer. 
-Over 7 years of experience in leading and training. A problem solver eager to learn and showcase my skills and talent. 
-Motivated to expand current skill set through new challenges and ready to contribute to life changing projects.
+Software Developer and Army veteran with experience in leading and training and a heart for engaging in the community through volunteer work. My time in the military helped to hone my skills in troubleshooting and problem-solving, which increased my resourcefulness and ability to find multiple ways to solve a problem. This is what I enjoy about coding and what has inspired the transition to a career in web development. Motivated and eager to join a collaborative environment and expand my current skill set through new challenges.
 
 - HTML, CSS, Bootstrap, JavaScript, jQuery
 - I’m currently learning JAVA and MYSQL.
