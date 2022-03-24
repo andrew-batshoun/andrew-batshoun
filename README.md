@@ -4,7 +4,6 @@ Software Developer and Army veteran with experience in leading and training and 
 
 - HTML, CSS, Bootstrap, JavaScript, jQuery, Java SE, Java EE (Servlets, JSP), Spring, MySQL, Thymeleaf 
 - I’m currently working on a Capstone Project called Invest Beacon.
-- I'm working on several projects
 - I am using IntelliJ
 - Fun Fact: I am a Brazilian Jiu Jitsu practicioner
 
