@@ -7,4 +7,4 @@ Software Developer and Army veteran with experience in leading and training and 
 - I am using IntelliJ
 - Fun Fact: I am a Brazilian Jiu Jitsu practicioner
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-batshoun&show_icons=true&theme=default)
+
